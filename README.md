@@ -1,3 +1,6 @@
+https://alexis-kepano.github.io/web-design-challenge/
+
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
